@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Shahad! 👋
 
-<!--
-**Oudixx/Oudixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior Software Engineering student interested in web development and building user interfaces that feel intuitive, useful, and enjoyable to use.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into thoughtful digital experiences, learning new technologies, and exploring how good design and engineering come together.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## A little about me
+
+- 🎓 Senior Software Engineering student
+- 💻 Interested in web development and user interface development
+- 🎨 I care about creating clear, user-friendly experiences
+- 🌱 Always learning and working on new ideas
+
+## Find me around the web
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shahad-alakash)
+- 🌐 [Portfolio](https://oudixx.github.io/MyPortfolio_ShahadAlakash/)
